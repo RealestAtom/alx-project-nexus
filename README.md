@@ -81,7 +81,3 @@ Ensure the following are installed on your system:
 - Required language runtimes (Python / Node.js / Java)
 - Database server (if applicable)
 
-### Clone the Repository
-```bash
-git clone https://github.com/your-username/nexus-project.git
-cd nexus-project
